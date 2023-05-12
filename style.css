@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(184, 183, 182);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1200px;
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    width: 100%;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+article {
+    width: 80%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+h1, h2, h3, p {
+    padding: 5px 0;
+    margin: 0;
+}
+
+p {
+    font-size: 18px;
+}
+
+#container-img {
+    width: 100%;
+}
+
+#container-img img {
+    border: 1px solid black;
+    width: 80%;
+    margin: 0 auto;
+}
